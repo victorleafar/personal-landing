@@ -1,230 +1,356 @@
-# Personal Landing - Landing Page de Personal Trainer# 💪 Personal Landing - Landing Page de Personal Trainer
-
-Uma landing page moderna e responsiva desenvolvida para personal trainers, com foco em conversão de leads e apresentação profissional de serviços de treinamento personalizado.Uma landing page moderna e responsiva desenvolvida para personal trainers, com foco em conversão de leads e apresentação profissional de serviços de treinamento personalizado.
+# Personal Landing# Personal Landing - Landing Page de Personal Trainer# 💪 Personal Landing - Landing Page de Personal Trainer
 
 
 
-## Demo ao Vivo## � Demo ao Vivo
-
-Ver projeto em produção: https://personal-landing-lilac.vercel.app/**[Ver Projeto em Produção →](https://personal-landing-lilac.vercel.app/)**
+Landing page moderna e responsiva para personal trainers, focada em conversão de leads e apresentação profissional de serviços.Uma landing page moderna e responsiva desenvolvida para personal trainers, com foco em conversão de leads e apresentação profissional de serviços de treinamento personalizado.Uma landing page moderna e responsiva desenvolvida para personal trainers, com foco em conversão de leads e apresentação profissional de serviços de treinamento personalizado.
 
 
 
-## Sobre o ProjetoAcesse o link acima para visualizar o projeto funcionando em tempo real no Vercel.
+## Demo
 
 
 
-Este projeto é uma landing page completa para personal trainers que desejam apresentar seus serviços de forma profissional e atrair novos alunos. A página inclui seções de hero, sobre, programas de treino, depoimentos de alunos e formulário de contato.---
+https://personal-landing-lilac.vercel.app/## Demo ao Vivo## � Demo ao Vivo
 
 
 
-##  Sobre o Projeto
+## SobreVer projeto em produção: https://personal-landing-lilac.vercel.app/**[Ver Projeto em Produção →](https://personal-landing-lilac.vercel.app/)**
+
+
+
+Landing page completa para personal trainers apresentarem seus serviços de forma profissional. Inclui seções de apresentação, sobre, programas de treino, depoimentos e formulário de contato.
+
+
+
+## Funcionalidades## Sobre o ProjetoAcesse o link acima para visualizar o projeto funcionando em tempo real no Vercel.
+
+
+
+- Hero section com call-to-action
+
+- Apresentação do personal trainer
+
+- Exibição de programas de treinoEste projeto é uma landing page completa para personal trainers que desejam apresentar seus serviços de forma profissional e atrair novos alunos. A página inclui seções de hero, sobre, programas de treino, depoimentos de alunos e formulário de contato.---
+
+- Carrossel de depoimentos
+
+- Formulário de contato
+
+- Design responsivo
+
+- Navegação suave entre seções##  Sobre o Projeto
+
+- Navbar com efeito ao scroll
 
 - Hero Section: Apresentação visual com call-to-action destacadoEste projeto é uma landing page completa para personal trainers que desejam apresentar seus serviços de forma profissional e atrair novos alunos. A página inclui seções de hero, sobre, programas de treino, depoimentos de alunos e formulário de contato.
 
+## Tecnologias
+
 - Seção Sobre: Apresentação do personal trainer com foto e descrição profissional
 
-- Programas de Treino: Exibição dos diferentes programas oferecidos (hipertrofia, emagrecimento, etc.)### ✨ Funcionalidades
+- React 19.2.0
 
-- Carrossel de Depoimentos: Depoimentos de alunos com navegação por setas
+- Vite (Rolldown)- Programas de Treino: Exibição dos diferentes programas oferecidos (hipertrofia, emagrecimento, etc.)### ✨ Funcionalidades
 
-- Formulário de Contato: Captura de leads com validação- **Hero Section Impactante**: Apresentação visual com call-to-action destacado
+- CSS3
 
-- Design Responsivo: Totalmente adaptado para desktop, tablet e mobile- **Seção Sobre**: Apresentação do personal trainer com foto e descrição profissional
-
-- Navegação Suave: Scroll suave entre seções- **Programas de Treino**: Exibição dos diferentes programas oferecidos (hipertrofia, emagrecimento, etc.)
-
-- Efeitos de Scroll: Navbar que muda de estilo ao rolar a página- **Carrossel de Depoimentos**: Depoimentos de alunos com navegação por setas
-
-- **Formulário de Contato**: Captura de leads com validação
-
-## Tecnologias Utilizadas- **Design Responsivo**: Totalmente adaptado para desktop, tablet e mobile
-
-- **Navegação Suave**: Scroll suave entre seções
-
-- React 19.2.0 - Biblioteca JavaScript para construção de interfaces- **Efeitos de Scroll**: Navbar que muda de estilo ao rolar a página
-- Vite (Rolldown) - Build tool ultrarrápida para desenvolvimento
-- CSS3 - Estilização moderna com gradientes e animações## 🚀 Tecnologias Utilizadas
-- ESLint - Linter para qualidade de código
-- **React 19.2.0** - Biblioteca JavaScript para construção de interfaces
-## Instalação- **Vite (Rolldown)** - Build tool ultrarrápida para desenvolvimento
-
-- **CSS3** - Estilização moderna com gradientes e animações
-
-Pré-requisitos:- **ESLint** - Linter para qualidade de código
-
-- Node.js (versão 16 ou superior)
-- npm ou yarn## 📦 Instalação
+- ESLint- Carrossel de Depoimentos: Depoimentos de alunos com navegação por setas
 
 
 
-Passos para instalação:### Pré-requisitos
+## Instalação- Formulário de Contato: Captura de leads com validação- **Hero Section Impactante**: Apresentação visual com call-to-action destacado
 
 
 
-1. Clone o repositório:- Node.js (versão 16 ou superior)
+Pré-requisitos: Node.js 16+ e npm/yarn- Design Responsivo: Totalmente adaptado para desktop, tablet e mobile- **Seção Sobre**: Apresentação do personal trainer com foto e descrição profissional
 
-```bash- npm ou yarn
+
+
+Clone o repositório:- Navegação Suave: Scroll suave entre seções- **Programas de Treino**: Exibição dos diferentes programas oferecidos (hipertrofia, emagrecimento, etc.)
+
+
+
+```bash- Efeitos de Scroll: Navbar que muda de estilo ao rolar a página- **Carrossel de Depoimentos**: Depoimentos de alunos com navegação por setas
 
 git clone https://github.com/victorleafar/personal-landing.git
 
-cd personal-landing### Passos para instalação
+cd personal-landing- **Formulário de Contato**: Captura de leads com validação
 
 ```
 
-1. Clone o repositório:
+## Tecnologias Utilizadas- **Design Responsivo**: Totalmente adaptado para desktop, tablet e mobile
 
-2. Instale as dependências:```bash
+Instale as dependências:
 
-```bashgit clone https://github.com/victorleafar/personal-landing.git
-
-npm installcd personal-landing
-
-``````
-
-
-
-3. Inicie o servidor de desenvolvimento:2. Instale as dependências:
-
-```bash```bash
-
-npm run devnpm install
-
-``````
-
-
-
-4. Abra o navegador em http://localhost:51733. Inicie o servidor de desenvolvimento:
+- **Navegação Suave**: Scroll suave entre seções
 
 ```bash
 
-## Scripts Disponíveisnpm run dev
+npm install- React 19.2.0 - Biblioteca JavaScript para construção de interfaces- **Efeitos de Scroll**: Navbar que muda de estilo ao rolar a página
+
+```- Vite (Rolldown) - Build tool ultrarrápida para desenvolvimento
+
+- CSS3 - Estilização moderna com gradientes e animações## 🚀 Tecnologias Utilizadas
+
+Inicie o servidor de desenvolvimento:- ESLint - Linter para qualidade de código
+
+- **React 19.2.0** - Biblioteca JavaScript para construção de interfaces
+
+```bash## Instalação- **Vite (Rolldown)** - Build tool ultrarrápida para desenvolvimento
+
+npm run dev
+
+```- **CSS3** - Estilização moderna com gradientes e animações
+
+
+
+Acesse http://localhost:5173 no navegador.Pré-requisitos:- **ESLint** - Linter para qualidade de código
+
+
+
+## Scripts- Node.js (versão 16 ou superior)
+
+- npm ou yarn## 📦 Instalação
+
+```bash
+
+npm run dev      # Inicia servidor de desenvolvimento
+
+npm run build    # Cria build de produção
+
+npm run preview  # Visualiza build localmentePassos para instalação:### Pré-requisitos
+
+npm run lint     # Executa ESLint
 
 ```
 
-- npm run dev - Inicia o servidor de desenvolvimento
+1. Clone o repositório:- Node.js (versão 16 ou superior)
 
-- npm run build - Cria a build de produção4. Abra o navegador em `http://localhost:5173`
+## Estrutura
 
-- npm run preview - Visualiza a build de produção localmente
+```bash- npm ou yarn
 
-- npm run lint - Executa o ESLint para verificar qualidade do código## 🛠️ Scripts Disponíveis
+```
 
-
-
-## Estrutura do Projeto- `npm run dev` - Inicia o servidor de desenvolvimento
-
-- `npm run build` - Cria a build de produção
-
-```- `npm run preview` - Visualiza a build de produção localmente
-
-personal-landing/- `npm run lint` - Executa o ESLint para verificar qualidade do código
+personal-landing/git clone https://github.com/victorleafar/personal-landing.git
 
 ├── public/
 
-│   └── vite.svg## 📁 Estrutura do Projeto
+│   └── vite.svgcd personal-landing### Passos para instalação
 
 ├── src/
 
 │   ├── assets/```
 
-│   │   ├── react.svgpersonal-landing/
+│   │   ├── react.svg
 
-│   │   ├── retrato.jpg├── public/
+│   │   ├── retrato.jpg1. Clone o repositório:
 
-│   │   └── trainer.jpg│   └── vite.svg          # Favicon
+│   │   └── trainer.jpg
 
-│   ├── App.jsx├── src/
+│   ├── App.jsx2. Instale as dependências:```bash
 
-│   ├── App.css│   ├── assets/           # Imagens e recursos
+│   ├── App.css
 
-│   ├── main.jsx│   │   ├── react.svg
+│   ├── main.jsx```bashgit clone https://github.com/victorleafar/personal-landing.git
 
-│   └── index.css│   │   ├── retrato.jpg   # Foto do personal trainer
+│   └── index.css
 
-├── index.html│   │   └── trainer.jpg   # Imagens adicionais
+├── index.htmlnpm installcd personal-landing
 
-├── package.json│   ├── App.jsx           # Componente principal
+├── package.json
 
-├── vite.config.js│   ├── App.css           # Estilos principais
+├── vite.config.js``````
 
-└── eslint.config.js│   ├── main.jsx          # Ponto de entrada
-
-```│   └── index.css         # Estilos globais
-
-├── index.html            # HTML base
-
-## Personalização├── package.json          # Dependências e scripts
-
-├── vite.config.js        # Configuração do Vite
-
-### Alterar Informações do Personal Trainer└── eslint.config.js      # Configuração do ESLint
+└── eslint.config.js
 
 ```
 
-1. Foto e Descrição: Edite o conteúdo na seção "Sobre" em src/App.jsx
 
-2. Programas de Treino: Personalize os cards de programas na seção "Serviços"## 🎨 Personalização
 
-3. Depoimentos: Modifique o array testimonials no início do arquivo App.jsx
-
-4. Cores e Estilo: Ajuste as variáveis CSS e estilos em src/App.css### Alterar Informações do Personal Trainer
+## Personalização3. Inicie o servidor de desenvolvimento:2. Instale as dependências:
 
 
 
-### Configurar Formulário de Contato1. **Foto e Descrição**: Edite o conteúdo na seção "Sobre" em `src/App.jsx`
+Para personalizar o conteúdo:```bash```bash
 
-2. **Programas de Treino**: Personalize os cards de programas na seção "Serviços"
 
-O formulário atualmente simula o envio. Para integrar com um backend real, localize a função handleSubmit em src/App.jsx e substitua o setTimeout por uma chamada API real:3. **Depoimentos**: Modifique o array `testimonials` no início do arquivo `src/App.jsx`
 
-4. **Cores e Estilo**: Ajuste as variáveis CSS e estilos em `src/App.css`
+1. Edite informações do personal em src/App.jsxnpm run devnpm install
+
+2. Modifique o array testimonials para alterar depoimentos
+
+3. Ajuste variáveis CSS em src/App.css para cores e estilos``````
+
+4. Substitua imagens em src/assets/
+
+
+
+Para integrar o formulário com backend real, edite a função handleSubmit em src/App.jsx:
+
+4. Abra o navegador em http://localhost:51733. Inicie o servidor de desenvolvimento:
 
 ```javascript
 
-const handleSubmit = async (e) => {### Configurar Formulário de Contato
+const handleSubmit = async (e) => {```bash
 
   e.preventDefault()
 
-  try {O formulário atualmente simula o envio. Para integrar com um backend real:
+  try {## Scripts Disponíveisnpm run dev
 
     const response = await fetch('SUA_API_URL', {
 
-      method: 'POST',1. Localize a função `handleSubmit` em `src/App.jsx`
+      method: 'POST',```
 
-      headers: { 'Content-Type': 'application/json' },2. Substitua o `setTimeout` por uma chamada API real:
+      headers: { 'Content-Type': 'application/json' },
 
-      body: JSON.stringify(form)
+      body: JSON.stringify(form)- npm run dev - Inicia o servidor de desenvolvimento
 
-    })```javascript
+    })
 
-    if (response.ok) {const handleSubmit = async (e) => {
-
-      setSent(true)  e.preventDefault()
-
-      setForm({ name: '', email: '', phone: '', message: '' })  try {
-
-    }    const response = await fetch('SUA_API_URL', {
-
-  } catch (error) {      method: 'POST',
-
-    console.error('Erro ao enviar formulário:', error)      headers: { 'Content-Type': 'application/json' },
-
-  }      body: JSON.stringify(form)
-
-}    })
-
-```    if (response.ok) {
+    if (response.ok) {- npm run build - Cria a build de produção4. Abra o navegador em `http://localhost:5173`
 
       setSent(true)
 
-## Deploy      setForm({ name: '', email: '', phone: '', message: '' })
+      setForm({ name: '', email: '', phone: '', message: '' })- npm run preview - Visualiza a build de produção localmente
 
     }
 
-### Vercel (Recomendado)  } catch (error) {
+  } catch (error) {- npm run lint - Executa o ESLint para verificar qualidade do código## 🛠️ Scripts Disponíveis
 
     console.error('Erro ao enviar formulário:', error)
+
+  }```
+
+}
+
+```1. Foto e Descrição: Edite o conteúdo na seção "Sobre" em src/App.jsx
+
+
+
+## Deploy2. Programas de Treino: Personalize os cards de programas na seção "Serviços"## 🎨 Personalização
+
+
+
+Vercel:3. Depoimentos: Modifique o array testimonials no início do arquivo App.jsx
+
+```bash
+
+npm i -g vercel4. Cores e Estilo: Ajuste as variáveis CSS e estilos em src/App.css### Alterar Informações do Personal Trainer
+
+vercel
+
+```
+
+
+
+Netlify:### Configurar Formulário de Contato1. **Foto e Descrição**: Edite o conteúdo na seção "Sobre" em `src/App.jsx`
+
+```bash
+
+npm run build2. **Programas de Treino**: Personalize os cards de programas na seção "Serviços"
+
+# Arraste a pasta dist para o Netlify Drop
+
+```O formulário atualmente simula o envio. Para integrar com um backend real, localize a função handleSubmit em src/App.jsx e substitua o setTimeout por uma chamada API real:3. **Depoimentos**: Modifique o array `testimonials` no início do arquivo `src/App.jsx`
+
+
+
+GitHub Pages:4. **Cores e Estilo**: Ajuste as variáveis CSS e estilos em `src/App.css`
+
+```bash
+
+npm install --save-dev gh-pages```javascript
+
+```
+
+const handleSubmit = async (e) => {### Configurar Formulário de Contato
+
+Adicione ao package.json:
+
+```json  e.preventDefault()
+
+"homepage": "https://seuusuario.github.io/personal-landing",
+
+"scripts": {  try {O formulário atualmente simula o envio. Para integrar com um backend real:
+
+  "predeploy": "npm run build",
+
+  "deploy": "gh-pages -d dist"    const response = await fetch('SUA_API_URL', {
+
+}
+
+```      method: 'POST',1. Localize a função `handleSubmit` em `src/App.jsx`
+
+
+
+Execute:      headers: { 'Content-Type': 'application/json' },2. Substitua o `setTimeout` por uma chamada API real:
+
+```bash
+
+npm run deploy      body: JSON.stringify(form)
+
+```
+
+    })```javascript
+
+## Responsividade
+
+    if (response.ok) {const handleSubmit = async (e) => {
+
+Testado em:
+
+- Desktop (1920px+)      setSent(true)  e.preventDefault()
+
+- Laptop (1366px - 1920px)
+
+- Tablet (768px - 1365px)      setForm({ name: '', email: '', phone: '', message: '' })  try {
+
+- Mobile (320px - 767px)
+
+    }    const response = await fetch('SUA_API_URL', {
+
+## Contribuição
+
+  } catch (error) {      method: 'POST',
+
+Contribuições são bem-vindas. Para contribuir:
+
+    console.error('Erro ao enviar formulário:', error)      headers: { 'Content-Type': 'application/json' },
+
+1. Fork o projeto
+
+2. Crie uma branch (git checkout -b feature/NovaFeature)  }      body: JSON.stringify(form)
+
+3. Commit suas mudanças (git commit -m 'Adiciona nova feature')
+
+4. Push para a branch (git push origin feature/NovaFeature)}    })
+
+5. Abra um Pull Request
+
+```    if (response.ok) {
+
+## Licença
+
+      setSent(true)
+
+Projeto de uso livre para fins educacionais e comerciais.
+
+## Deploy      setForm({ name: '', email: '', phone: '', message: '' })
+
+## Autor
+
+    }
+
+Victor Leafar - @victorleafar
+
+### Vercel (Recomendado)  } catch (error) {
+
+## Créditos
+
+    console.error('Erro ao enviar formulário:', error)
+
+Imagens: Unsplash
 
 1. Instale o Vercel CLI: npm i -g vercel  }
 
